@@ -1,3 +1,1 @@
-# Git and github course
-
-course
+# Travel landing page layout
